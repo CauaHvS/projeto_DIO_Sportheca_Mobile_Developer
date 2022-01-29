@@ -1,0 +1,35 @@
+Atalhos Eclipse:
+f2 - renomear
+ctrl+n - nova class
+ctrl+m - expandir ou retrair tela do codigo
+(ctrl+3)+construtor - Criar um construtor
+ctrl+d - apagar linha
+(ctrl+3)+gatter - criar getters in setters
+(ctrl+3)+equals - hashCode e equals
+(ctrl+3)+String - toString
+alt+pageUP - mudar parte selecionada de lugaar
+ctrl+shift+o - importa pacotes necessarios
+ctrl+alt+pageDown - duplica a linha
+ctrl+shift+c - comenta o bloco selecionado
+
+Atalhos Intellij:
+
+ctrl+ins - criar(pacotes, getters e setters, construtores, etc..)
+ctrl+shift+/ - comenta o bloco selecionado
+ctrl+alt+o - apaga imports não utilizados
+ctrl+y - deleta linha
+shift+f6 - renomear
+shift+f12 - so editor
+ctrl+shift+pageUP - mudar parte selecionada de lugaar
+ctrl+alt+v - cria uma variavel
+ctrl+n - busca classes no projeto
+ctrl+b - entra em classe selecionada do programa
+ctrl+w - seleciona uma linha
+
+
+Atalhos em:
+basef.com.br	
+
+
+
+
